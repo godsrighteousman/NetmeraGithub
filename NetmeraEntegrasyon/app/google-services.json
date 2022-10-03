@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114851698926",
+    "project_id": "netmera-26300",
+    "storage_bucket": "netmera-26300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114851698926:android:42ca7289499fffa2f07bff",
+        "android_client_info": {
+          "package_name": "com.example.netmeraentegrasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114851698926-g9lddff3khrnfamjefn2pg4n56tsdr2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwNABKASaqCS1C39D6xNkFrYkRbkxLNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114851698926-g9lddff3khrnfamjefn2pg4n56tsdr2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

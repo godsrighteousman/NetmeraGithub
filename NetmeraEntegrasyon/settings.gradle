@@ -1,0 +1,2 @@
+rootProject.name = "NetmeraEntegrasyon"
+include ':app'
